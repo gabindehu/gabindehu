@@ -1,35 +1,16 @@
-# 🚀 À propos de moi
-
+# 💫 About Me:
 Je suis **Gabin Dehu**, étudiant en **Licence 2 Mathématiques et Informatique** à l'Université de Bourgogne. Passionné par les nouvelles technologies, je développe des projets en lien avec le développement logiciel, la simulation 3D et la gestion de bases de données.
 
-# 💻 Compétences Techniques
 
-## Programmation
+# 💻 Tech Stack:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gabindehu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gabindehu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabindehu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+---
+[![](https://visitcount.itsvg.in/api?id=gabindehu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Développement Web & 3D
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
-
-## Bases de Données
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-## Outils et Gestion de Version
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-
-# 🏆 Projets
-
-- **[Portfolio en ligne](https://github.com/gabindehu/gabindehu.github.io)** : Portfolio en ligne sous forme de site statique en React, initialisé à partir d'un projet Node.js configurable.
-- **[Simulation de Croquet en 3D](https://github.com/gabindehu/Simulation-de-Croquet-en-3D)** : Simulation d’un lancer de balle en 3D avec **Three.js**, intégrant des courbes de Bézier pour modéliser les trajectoires.
-- **[Jeu de plateau](https://github.com/gabindehu/Jeu-de-plateau)** : Jeu de stratégie sur grille avec gestion d’objets et d’obstacles, développé en **Java**.
-- **[Base de Données Péage](https://github.com/gabindehu/Base-de-Donnee-Peage)** : Base de données simulant la gestion des péages autoroutiers avec **PostgreSQL**.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
