@@ -45,6 +45,7 @@ Je suis **Gabin Dehu**, étudiant en **Licence 2 Mathématiques et Informatique*
 - **[Simulation de Croquet en 3D](https://github.com/gabindehu/Simulation-de-Croquet-en-3D)** : Simulation d’un lancer de balle en 3D avec **Three.js**, intégrant des courbes de Bézier pour modéliser les trajectoires.
 - **[Jeu de plateau](https://github.com/gabindehu/Jeu-de-plateau)** : Jeu de stratégie sur grille avec gestion d’objets et d’obstacles, développé en **Java**.
 - **[Base de Données Péage](https://github.com/gabindehu/Base-de-Donnee-Peage)** : Base de données simulant la gestion des péages autoroutiers avec **PostgreSQL**.
+- **[Base de Données Orientée Objet](https://github.com/gabindehu/ObjetDB)** : Base de données d'objets **Java** client-serveur avec enregistrement en JSON via **Jackson**.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gabindehu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
